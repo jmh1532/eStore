@@ -8,11 +8,11 @@ menu/layout/footer 3부분으로 나누어 관리
 ```
 
 2. 로그인 후, 관리자페이지(admin)와 일반사용자 페이지를 분리함.
-    - 일반 사용자
+- 일반 사용자
 
 ![캡처](https://user-images.githubusercontent.com/33171227/61589774-0a98e500-abea-11e9-86a0-59bedb5aac67.JPG)
 
-    - 관리자(admin)
+- 관리자(admin)
 
 ![admin](https://user-images.githubusercontent.com/33171227/61589775-0c62a880-abea-11e9-9c1c-0c3bc24901f3.JPG)
 
