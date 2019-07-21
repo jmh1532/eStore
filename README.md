@@ -1,6 +1,7 @@
 # eStore - mini Test
 spring MVC를 이용한 온라인 쇼핑몰 BackEnd를 구현해보았다.
 
+
 ## Running the tests
 ##### 1. jsp페이지 관리하기 위해 apatch tiles를 사용, 데이터 CRUD는 Hibernate으로 구현
 ```
@@ -38,9 +39,32 @@ MySQL의 데이터를 Read 한다.
 ```
 Cart에서 AngularJS를 통해 제품별 수량과 금액/ 수량 수정, 총 금액 확인 
 ```
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Screen Shot
+#### 사용자
 
+- 상품 목록
+![product](https://user-images.githubusercontent.com/33171227/61590164-8ba6ab00-abef-11e9-8515-68be549b48eb.JPG)
+
+  - 상품 상세보기
+![detail](https://user-images.githubusercontent.com/33171227/61590182-b42ea500-abef-11e9-8d3a-e5f980f86d7d.JPG)
+
+  - 장바구니
+![cart](https://user-images.githubusercontent.com/33171227/61590188-c6104800-abef-11e9-8d5e-89bd125fa600.JPG)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+#### 관리자
+
+  - 상품 관리목록
+![productInventory](https://user-images.githubusercontent.com/33171227/61590196-f8ba4080-abef-11e9-966a-e5837230fa85.JPG)
+
+  - 상품 추가
+![addProduct](https://user-images.githubusercontent.com/33171227/61590221-7a11d300-abf0-11e9-83bf-a326ac9725c5.JPG)
+
+  - 상품 수정
+![updateProduct](https://user-images.githubusercontent.com/33171227/61590227-89911c00-abf0-11e9-8df4-ae1f47e063c2.JPG)
 
 
 ## Built With
@@ -51,7 +75,7 @@ Cart에서 AngularJS를 통해 제품별 수량과 금액/ 수량 수정, 총 �
 * [AngularJS](https://angularjs.org/)
 * [Hibernate](https://hibernate.org/) - Data CRUD 처리
 
-## Authors
-* **정명한** - coding
-* **임주훈** - image 
+## Author
+* **정명한**
+
 
